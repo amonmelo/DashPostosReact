@@ -1,4 +1,8 @@
+<div align="center">
+
 # Dash Postos - Aplicação React
+
+</div>
 
 <p align="center">
   <a href="https://ibb.co/g7y3jrj">
