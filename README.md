@@ -1,8 +1,8 @@
 # Dash Postos - Aplicação React
 
 <p align="center">
-  <a href="https://ibb.co/Jq9GxZ2">
-    <img src="https://i.ibb.co/YXx1Dg8/Captura-de-Tela-2024-10-15-a-s-20-54-28.png" alt="Captura-de-Tela-2024-10-15-a-s-20-54-28" border="0" />
+  <a href="https://ibb.co/g7y3jrj">
+    <img src="https://i.ibb.co/4fW7mFm/Captura-de-Tela-2024-10-16-a-s-18-18-35.png" alt="Captura-de-Tela-2024-10-16-a-s-18-18-35" border="0" />
   </a>
 </p>
 
