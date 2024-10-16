@@ -1,8 +1,9 @@
 <div align="center">
 
-# Dash Postos - Aplicação React
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) [Aplicação React - Dash Postos](https://reactjs.org) ![Bico de Combustível](https://example.com/fuel-icon.png)
 
 </div>
+
 
 <p align="center">
   <a href="https://ibb.co/g7y3jrj">
