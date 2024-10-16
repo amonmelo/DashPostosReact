@@ -7,8 +7,8 @@ import dayjs from 'dayjs';
 import { createClient } from '@supabase/supabase-js';
 
 // Inicializando o Supabase Client
-const supabaseUrl = 'https://jfaesmmqlvndhlcncpmo.supabase.co';
-const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpmYWVzbW1xbHZuZGhsY25jcG1vIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjkwMzMwNzUsImV4cCI6MjA0NDYwOTA3NX0.yzjec6w0Whzvf6UoB7f6Cz_YQOoWt_sqQb010qmDkIs';
+const supabaseUrl = 'Suaurl';
+const supabaseKey = 'SUA KEY';
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042', '#FF4563'];
