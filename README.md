@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30"/> Aplicação React - Dash Postos <img src="https://example.com/fuel-icon.png" alt="Bico de Combustível" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30"/> Aplicação React - Dash Postos ⛽
 
 </div>
+
 
 
 
